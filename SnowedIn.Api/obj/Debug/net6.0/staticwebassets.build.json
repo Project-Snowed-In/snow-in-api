@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1FVZlMe2gvnyNkleNQvZ1AaWZ74/dCIMPKTVUlzmpyQ=",
+  "Source": "SnowedIn.Api",
+  "BasePath": "_content/SnowedIn.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

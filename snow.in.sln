@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowedIn.Api", "SnowedIn.Api\SnowedIn.Api.csproj", "{FB13FC3E-E6FB-456D-A125-78613D7D6242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowedIn.Domain", "SnowedIn.Domain\SnowedIn.Domain.csproj", "{D12C126C-A860-48D3-A275-D63562CCAB82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +14,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB13FC3E-E6FB-456D-A125-78613D7D6242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB13FC3E-E6FB-456D-A125-78613D7D6242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB13FC3E-E6FB-456D-A125-78613D7D6242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB13FC3E-E6FB-456D-A125-78613D7D6242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12C126C-A860-48D3-A275-D63562CCAB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12C126C-A860-48D3-A275-D63562CCAB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12C126C-A860-48D3-A275-D63562CCAB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12C126C-A860-48D3-A275-D63562CCAB82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
