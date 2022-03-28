@@ -10,3 +10,15 @@ C:\Users\corey\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domai
 C:\Users\corey\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\refint\SnowedIn.Domain.dll
 C:\Users\corey\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.pdb
 C:\Users\corey\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\ref\SnowedIn.Domain.dll
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.deps.json
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.dll
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.pdb
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.csproj.AssemblyReference.cache
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.AssemblyInfoInputs.cache
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.AssemblyInfo.cs
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.dll
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\refint\SnowedIn.Domain.dll
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.pdb
+C:\Users\mkati\OneDrive\Desktop\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\ref\SnowedIn.Domain.dll

@@ -73,6 +73,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "SnowedIn.data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SnowedIn.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SnowedIn.data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SnowedIn.data.dll": {}
+        }
+      },
       "SnowedIn.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -211,6 +224,11 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+    "SnowedIn.data/1.0.0": {
+      "type": "project",
+      "path": "../SnowedIn.Data/SnowedIn.data.csproj",
+      "msbuildProject": "../SnowedIn.Data/SnowedIn.data.csproj"
+    },
     "SnowedIn.Domain/1.0.0": {
       "type": "project",
       "path": "../SnowedIn.Domain/SnowedIn.Domain.csproj",
@@ -220,23 +238,24 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "SnowedIn.Domain >= 1.0.0",
+      "SnowedIn.data >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Corey\\.nuget\\packages\\": {}
+    "C:\\Users\\mkati\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
+      "projectUniqueName": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
       "projectName": "SnowedIn.Api",
-      "projectPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
-      "packagesPath": "C:\\Users\\Corey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\obj\\",
+      "projectPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
+      "packagesPath": "C:\\Users\\mkati\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Corey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mkati\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -248,8 +267,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
-              "projectPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj"
+            "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj": {
+              "projectPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj"
+            },
+            "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
+              "projectPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj"
             }
           }
         }
