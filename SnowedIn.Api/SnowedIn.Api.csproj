@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SnowedIn.Domain\SnowedIn.Domain.csproj" />
+    <ProjectReference Include="..\SnowedIn.Data\SnowedIn.data.csproj" />
   </ItemGroup>
 
 </Project>
