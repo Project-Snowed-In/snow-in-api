@@ -37,11 +37,11 @@ namespace SnowedIn.Domain.Catalog
             Price = price;
 
         }
-
         public void AddRating(Rating rating)
-        {
-        this.Ratings.Add(rating);
-        }
+            {
+            this.Ratings.Add(rating);
+            }
+
     }
 
 }
