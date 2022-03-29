@@ -13,7 +13,7 @@ namespace SnowedIn.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            DbInitializer.Initializer(builder);
+            DbInitializer.Initialize(builder);
         }
     } 
 }
