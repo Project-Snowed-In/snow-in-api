@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {}
+    "C:\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
+    "C:\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
+        "projectUniqueName": "C:\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
         "projectName": "SnowedIn.Domain",
-        "projectPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
-        "packagesPath": "C:\\Users\\mkati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\obj\\",
+        "projectPath": "C:\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
+        "packagesPath": "C:\\Users\\tnobs\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\snow-in-api\\SnowedIn.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mkati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tnobs\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

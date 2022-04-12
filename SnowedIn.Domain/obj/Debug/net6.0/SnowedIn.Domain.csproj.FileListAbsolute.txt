@@ -34,3 +34,15 @@ C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Domain\obj\Debug\net
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Domain\obj\Debug\net6.0\refint\SnowedIn.Domain.dll
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.pdb
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Domain\obj\Debug\net6.0\ref\SnowedIn.Domain.dll
+C:\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.deps.json
+C:\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.dll
+C:\repos\snow-in-api\SnowedIn.Domain\bin\Debug\net6.0\SnowedIn.Domain.pdb
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.csproj.AssemblyReference.cache
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.AssemblyInfoInputs.cache
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.AssemblyInfo.cs
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.csproj.CoreCompileInputs.cache
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.dll
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\refint\SnowedIn.Domain.dll
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\SnowedIn.Domain.pdb
+C:\repos\snow-in-api\SnowedIn.Domain\obj\Debug\net6.0\ref\SnowedIn.Domain.dll

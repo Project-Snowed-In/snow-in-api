@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vGkHvzv7R+tg/TOPcLO6QAnFuFKvWe+RnI0CYt1c4x5moUw0GAjQKc9Jl4lBUb4gh1l6Wdz/WvT4XubRecuAg==",
+  "dgSpecHash": "Vmi/UDbBc4KgjF4lmKuyzssP14bazYC0yQZopl4ljRYp0iuumV/x1kWRzdrfpCGCwxJGr7feyXSCXvcascgn+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\SnowedIn.Api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
+  "projectFilePath": "C:\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

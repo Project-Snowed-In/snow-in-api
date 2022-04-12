@@ -172,3 +172,6 @@ C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Api\obj\Debug\net6.0
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.pdb
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.genruntimeconfig.cache
 C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Api\obj\Debug\net6.0\ref\SnowedIn.Api.dll
+C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\SnowedIn.Api.dll
+C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\refint\SnowedIn.Api.dll
+C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\SnowedIn.Api.pdb
