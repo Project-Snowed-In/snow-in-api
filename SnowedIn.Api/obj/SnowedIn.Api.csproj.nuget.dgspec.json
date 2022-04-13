@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\snow-in-api\\SnowedIn.APi\\SnowedIn.Api.csproj": {}
+    "C:\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj": {}
   },
   "projects": {
-    "C:\\repos\\snow-in-api\\SnowedIn.APi\\SnowedIn.Api.csproj": {
+    "C:\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\snow-in-api\\SnowedIn.APi\\SnowedIn.Api.csproj",
+        "projectUniqueName": "C:\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
         "projectName": "SnowedIn.Api",
-        "projectPath": "C:\\repos\\snow-in-api\\SnowedIn.APi\\SnowedIn.Api.csproj",
+        "projectPath": "C:\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
         "packagesPath": "C:\\Users\\tnobs\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\snow-in-api\\SnowedIn.APi\\obj\\",
+        "outputPath": "C:\\repos\\snow-in-api\\SnowedIn.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tnobs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,7 +51,15 @@
               "target": "Package",
               "version": "[6.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.3, )"
             },

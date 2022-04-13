@@ -175,3 +175,10 @@ C:\Users\mkati\OneDrive\Desktop\repos\SnowedIn.Api\SnowedIn.Api\obj\Debug\net6.0
 C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\SnowedIn.Api.dll
 C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\refint\SnowedIn.Api.dll
 C:\repos\snow-in-api\SnowedIn.APi\obj\Debug\net6.0\SnowedIn.Api.pdb
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.csproj.AssemblyReference.cache
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.AssemblyInfoInputs.cache
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.AssemblyInfo.cs
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.csproj.CoreCompileInputs.cache
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\snow-in-api\SnowedIn.Api\obj\Debug\net6.0\SnowedIn.Api.MvcApplicationPartsAssemblyInfo.cache

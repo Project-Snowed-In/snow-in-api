@@ -1,5 +1,6 @@
 ﻿using SnowedIn.Domain.Catalog;
 using Microsoft.EntityFrameworkCore;
+using SnowedIn.Domain.Orders;
 
 namespace SnowedIn.Data
 {
