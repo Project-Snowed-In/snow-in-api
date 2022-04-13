@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SnowedIn.Domain.Catalog;
 using SnowedIn.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace SnowedIn.Api.Controllers
 {
