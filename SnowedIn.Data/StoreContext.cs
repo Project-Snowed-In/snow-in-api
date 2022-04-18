@@ -6,6 +6,7 @@ namespace SnowedIn.Data
 {
     public class StoreContext : DbContext
     {
+        //Need to see if this needs changed
         public StoreContext(DbContextOptions<StoreContext> options)
             : base(options)
         { }
