@@ -19,5 +19,19 @@ namespace SnowedIn.Domain.Tests
             Assert.AreEqual(10.00m, item.Price);
             Assert.AreEqual(0, item.Ratings.Count);
         }
+
+        [TestMethod]
+        public void Can_Create_Add_Rating()
+        {
+            // Arrange
+            var item = new Item("Name", "Description", "Brand", 10.00m);
+            var rating = new Rating(5, "Name", "Review");
+
+            // Act
+            item.AddRating(rating);
+
+            // Assert
+            Assert.AreEqual(rating, item.Ratings[0]);
+        }
     }
 }
