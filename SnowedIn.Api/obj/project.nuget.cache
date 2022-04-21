@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KCkaKqDJYPjkBNGAWHLDw1qyQom/ta05/fWQ6T4uqPxn68UcoWAxtQrx65Nocqjcs+0s1/IZCWujYggi08kuHg==",
+  "dgSpecHash": "P0GkrDKNmz3GG7lzx2ZcMY3zxwg6PwfvOSqG+zz0B0c60dYagJxFUXPYlqKlAm7OsU0SFxUe4Lse+VaIfJjpPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
+  "projectFilePath": "c:\\Users\\mkati\\OneDrive\\Desktop\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkati\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mkati\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
