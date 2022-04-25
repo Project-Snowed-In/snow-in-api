@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xuc/k2MP/+VzPE7gMWm6lq+Wp6X/pCSI0sAnbMbEo5Mme2B8Q/BJoRFY8ErRBO9XoWKFJWad2fBAIOS3Ni1EYw==",
+  "dgSpecHash": "FPzJG5gI4mb4IBEQNEHd5HADdoVsJ60lpIOG4hvgNTZJvDPw0gxead7BVPxUPobvRwRH0Q/AHX5wuBxHC0ROew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

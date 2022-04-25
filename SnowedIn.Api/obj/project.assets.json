@@ -10049,19 +10049,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\corey\\.nuget\\packages\\": {}
+    "C:\\Users\\Corey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
       "projectName": "SnowedIn.Api",
-      "projectPath": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
-      "packagesPath": "C:\\Users\\corey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Api\\obj\\",
+      "projectPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\SnowedIn.Api.csproj",
+      "packagesPath": "C:\\Users\\Corey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\corey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Corey\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -10073,11 +10073,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj": {
-              "projectPath": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj"
+            "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj": {
+              "projectPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Data\\SnowedIn.data.csproj"
             },
-            "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
-              "projectPath": "C:\\Users\\corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj"
+            "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj": {
+              "projectPath": "C:\\Users\\Corey\\repos\\snow-in-api\\SnowedIn.Domain\\SnowedIn.Domain.csproj"
             }
           }
         }
@@ -10133,7 +10133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
