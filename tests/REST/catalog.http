@@ -1,0 +1,29 @@
+GET https://localhost:7277/catalog
+
+
+POST https://localhost:7277/catalog
+Content-Type: application/json
+
+DELETE https://localhost:7277/catalog/3
+
+{
+    "name":"Shoes",
+    "description": "Ohio State shoes",
+    "brand": "Nike",
+    "price": 129.99
+}
+
+### GET token from Auth0
+
+curl --request POST \
+  --url https://dev-284-o59f.us.auth0.com/oauth/token \
+  --header 'content-type: application/json' \
+  --data '{"client_id":"FTxK2vMgxiAtMLo7htXBsmoowOOISEaw","client_secret":"I-Ux6BKVDfY7U_qhN9P1kKNrTk-MbSIdYRxsJBJ4omEnvPnlh01fIWB-oHFg7RXZ","audience":"https://SnowedIn","grant_type":"client_credentials"}'
+
+### DELETE an Item to the Catalog Collection
+curl --request DELETE \
+    --url https://localhost:7277/catalog/3 \
+    --header 'authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFYWTZoUUthVk9HTVVjVDBFbjNzXyJ9.eyJpc3MiOiJodHRwczovL2Rldi0yODQtbzU5Zi51cy5hdXRoMC5jb20vIiwic3ViIjoiRlR4SzJ2TWd4aUF0TUxvN2h0WEJzbW9vd09PSVNFYXdAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vU25vd2VkSW4iLCJpYXQiOjE2NTA5MjY1MTIsImV4cCI6MTY1MTAxMjkxMiwiYXpwIjoiRlR4SzJ2TWd4aUF0TUxvN2h0WEJzbW9vd09PSVNFYXciLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMifQ.rCWGfsRzUOB7NxTEGgemI5vRWhREzgnQT62oOX_nqxbx07wAKJk3STdp0l3G5bMNzxhVArHunV-sNuiAdPnsQvy-bvCIMvoOdujEHhKx489nzpYJLMbEpzRHrP2PXhw4OzOf4qksCvG2f1Ppc0FbhhYEJKSwIcfKUGgpRx6DVNgFfqSwATNQ8afPc1Yu_0Unc5JEkBzMnqAtXTmYw0QbitdliKNBh0dDLTPZSFga0Nb7Xww9CLv4jncE73LUY_99UoOVsBwTbpbav-7L80k0q0VkNZn46fxCUtgQdCOI8HhMaij2tn3Fuirs3vzUwSElSJ5VntTi5ALmWOuQkPGChg'
+
+
+    
